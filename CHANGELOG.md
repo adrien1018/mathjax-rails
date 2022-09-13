@@ -1,3 +1,6 @@
+## 13 Sep 2022
+  - Fix 404 handling
+
 ## 30 Jun 2022
   -  Updated MathJax version to 3.2.2
 
